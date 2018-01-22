@@ -172,6 +172,11 @@ img, video, audio, iframe, table, form {
   font: 1em "Trebuchet MS", Arial, sans-serif;
 }
 
+#navbar nav a.selected {
+  background: #333;
+  color: white;
+}
+
 /*////////// LOGO //////////*/
 
 
